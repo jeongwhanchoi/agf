@@ -28,3 +28,9 @@ This is the official implementation of our IJCAI 2025 paper "Learning Advanced S
 | **ICML 2024** | [Polynomial-based Self-Attention for Table Representation Learning](https://proceedings.mlr.press/v235/kim24ae.html) | [![GitHub](https://img.shields.io/github/stars/JayoungKim408/TabPSA?style=social)](https://github.com/JayoungKim408/TabPSA) |
 | **AAAI 2024** | [An Attentive Inductive Bias for Sequential Recommendation Beyond the Self-Attention](https://ojs.aaai.org/index.php/AAAI/article/view/28747) | [![GitHub](https://img.shields.io/github/stars/yehjin-shin/BSARec?style=social)](https://github.com/yehjin-shin/BSARec) |
 | **ICLR 2024** | [Learning Flexible Body Collision Dynamics with Hierarchical Contact Mesh Transformer](https://openreview.net/forum?id=90yw2uM6J5) | [![GitHub](https://img.shields.io/github/stars/yuyudeep/hcmt?style=social)](https://github.com/yuyudeep/hcmt) |
+
+---
+
+## 📌 TL;DR
+
+We propose Attentive Graph Filter (AGF), a novel self-attention mechanism that interprets attention as learning graph filters in the singular value domain from the perspective of directed graph signal processing (GSP). AGF achieves linear complexity O(nd²) while effectively leveraging both low and high-frequency information, outperforming existing linear Transformers on various benchmarks.
