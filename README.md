@@ -78,3 +78,25 @@ For detailed instructions on installation, dataset preparation, and running expe
 |:-----|:----------|:-------|
 | **Long Range Arena (LRA)** | `AGF_LRA/` | [📖 AGF_LRA/README.md](AGF_LRA/README.md) |
 | **UEA Time Series Classification** | `AGF_UEA/` | [📖 AGF_UEA/README.md](AGF_UEA/README.md) |
+
+---
+
+## 📝 Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@inproceedings{wi2025agf,
+  title     = {Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain},
+  author    = {Wi, Hyowon and Choi, Jeongwhan and Park, Noseong},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {6561--6569},
+  year      = {2025},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2025/730},
+  url       = {https://doi.org/10.24963/ijcai.2025/730},
+}
+```
